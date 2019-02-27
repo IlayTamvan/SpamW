@@ -15,4 +15,5 @@ python2 SpamW.py
 ```
 
 ISI nomer
+
 ISI Jumlah (Jangan Banyak2, Bisa Lag)
